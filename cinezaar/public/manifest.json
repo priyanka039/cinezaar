@@ -1,0 +1,23 @@
+{
+  "short_name": "Cinézaar",
+  "name": "Cinézaar — Personalized Movie Explorer",
+  "icons": [
+    {
+      "src": "icon-192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "icon-512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#0D1B2A",
+  "theme_color": "#FFD700",
+  "description": "A beautiful, personalized movie explorer app built with React. Search, filter, and favorite movies with a cinematic UI.",
+  "orientation": "portrait-primary",
+  "scope": "."
+} 
